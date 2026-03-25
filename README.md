@@ -12,14 +12,9 @@ Currently working as a freelancer, building websites, projects, and automation t
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&v=1)
 
-![](https://nirzak-streak-stats.vercel.app/?user=HarshSharma20050924&v=1)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshSharma20050924&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshSharma20050924&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshSharma20050924&icon=0&color=0)](https://visitcount.itsvg.in)
 
