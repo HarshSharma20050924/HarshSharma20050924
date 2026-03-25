@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working as a freelancer, building websites, projects, and automation tools for businesses<br>to solve operational problems.
 
 
@@ -13,8 +13,6 @@ Currently working as a freelancer, building websites, projects, and automation t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&v=1)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HarshSharma20050924&v=1)
-
-![](https://github-profile-trophy.vercel.app/?username=HarshSharma20050924&v=1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshSharma20050924&theme=radical&no-frame=false&no-bg=true&margin-w=4)
