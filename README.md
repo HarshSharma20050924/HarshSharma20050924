@@ -66,7 +66,7 @@ Building web systems, automation tools, and scalable backend solutions that solv
 
 ### 🤖 AI Sales Agent for Lead Generation
 
-[Live Demo](https://deal-flow-sourcing-worker.vercel.app/)
+[Live Demo](https://deal-flow-lead.vercel.app/)
 
 * Built an autonomous AI agent to identify, qualify, and source business leads
 * Automates repetitive sales workflows and reduces manual effort
