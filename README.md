@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&desc=Backend%20Engineer%20•%20Automation%20Systems%20•%20Scalable%20Infrastructure&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Systems%20Engineer&descAlignY=60"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Distributed+Systems;Automation+%26+AI+Integration;Performance-Driven+Architecture;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Product+Builder;Building+Scalable+AI+Systems;Distributed+Systems+%26+Automation;Backend+Architecture+%26+Infrastructure;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -13,6 +13,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20050924&style=for-the-badge&color=7C3AED&labelColor=0d1117&label=Profile+Views)](https://github.com/HarshSharma20050924)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/harsh-sharma-44476339b)
+
+</div>
 
 </div>
 
