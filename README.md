@@ -1,121 +1,188 @@
-# Harsh Sharma
+<div align="center">
 
-Building web systems, automation tools, and scalable backend solutions that solve real business problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&desc=Backend%20Engineer%20•%20Automation%20Systems%20•%20Scalable%20Infrastructure&descAlignY=60"/>
 
----
+<br/>
 
-## What I Do
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Distributed+Systems;Automation+%26+AI+Integration;Performance-Driven+Architecture;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 
-* Custom Web Applications
-* Backend Systems & APIs
-* Business Process Automation
-* Performance Optimization & Scaling
+<br/><br/>
 
----
+[![GitHub followers](https://img.shields.io/github/followers/HarshSharma20050924?style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=0d1117&label=Followers)](https://github.com/HarshSharma20050924)
 
-## 💻 Tech Stack
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20050924&style=for-the-badge&color=7C3AED&labelColor=0d1117&label=Profile+Views)](https://github.com/HarshSharma20050924)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/harsh-sharma-44476339b)
+
+</div>
+
+## About Me
+
+Software Engineer focused on backend systems, full-stack products, and AI-powered applications.
+
+Building scalable APIs, distributed systems, automation workflows, and intelligent infrastructure with a strong focus on performance and clean architecture.
+
+### Interests
+- Backend Engineering
+- Full-Stack Development
+- AI Systems
+- Distributed Architectures
+- Product Engineering
+- Automation Infrastructure
+
+### Currently Exploring
+- Kubernetes
+- System Design
+- Cloud-Native Infrastructure
+- AI Agents & LLM Workflows
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
+<img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js&theme=dark" />
 
-### Backend
+<br/><br/>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
+### Backend & Infrastructure
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis,docker,kubernetes&theme=dark" />
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat\&logo=vite\&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-black?style=flat\&logo=three.js\&logoColor=white)
+<br/><br/>
 
-### Databases & Infra
+### Frontend & Tools
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat\&logo=redis\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat\&logo=firebase\&logoColor=ffcd34)
+<img src="https://skillicons.dev/icons?i=tailwind,vite,git,firebase,supabase&theme=dark" />
 
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat\&logo=kubernetes\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+<br/><br/>
 
 ### Data & ML
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+</div>
 
 ---
 
-## Selected Work
+# Featured Projects
 
-* Built automation systems to reduce repetitive business tasks
-* Developed scalable backend architectures handling high request loads
-* Created full-stack web applications with clean UI + efficient APIs
+<div align="center">
 
-## 🚀 Featured Projects
+## AI Sales Agent
 
-### 🤖 AI Sales Agent for Lead Generation
+Autonomous AI lead generation and qualification system with intelligent workflow automation.
+
+**Stack:** FastAPI • Redis • AI Automation
 
 [Live Demo](https://deal-flow-lead.vercel.app/)
 
-* Built an autonomous AI agent to identify, qualify, and source business leads
-* Automates repetitive sales workflows and reduces manual effort
-* Designed for real-world business usage and scalability
-
 ---
 
-### 🛒 Ecommerce Platform
+## Ecommerce Platform
+
+Scalable ecommerce platform with optimized backend architecture and inventory handling.
+
+**Stack:** Node.js • PostgreSQL
 
 [Live Demo](https://lumina-store-black.vercel.app/)
 
-* Developed a full-stack ecommerce application with modern UI
-* Implemented backend APIs for product and data management
-* Optimized for performance and smooth user experience
-
 ---
 
-### 🧠 Face Recognition Attendance System
+## Face Recognition Attendance
+
+ML-powered attendance system with real-time face detection and automated logging.
+
+**Stack:** Python • OpenCV
 
 [Live Demo](https://face-recognition-attendance-system-true.vercel.app/)
 
-* Built a deep learning-based facial recognition system
-* Automates attendance tracking with high accuracy
-* Integrated ML pipeline with a usable frontend interface
-
 ---
 
-## 🧩 Additional Project
+## Social Messaging Platform
 
-### 💬 Social Messaging Platform
+Real-time messaging application with scalable WebSocket communication.
+
+**Stack:** Node.js • Socket.IO
 
 [Live Demo](https://aqualyn.vercel.app/)
 
-* Developed a real-time messaging application
-* Focused on responsive UI and core chat functionality
-* Designed with scalability in mind
-
+</div>
 
 ---
 
-## Connect
+# GitHub Analytics
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/harsh_sharma200509)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/harsh-sharma-44476339b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:harsh20050924@gmail.com)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20050924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_radius=10" />
+
+</div>
 
 ---
 
-## Stats
+# Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSharma20050924\&theme=dark\&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma20050924\&layout=compact\&v=1)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HarshSharma20050924&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&border_radius=10" />
+
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma20050924&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff" />
+
+</div>
+
+---
+
+# Core Focus Areas
+
+<div align="center">
+
+| Backend Systems | Automation | AI Integration |
+|---|---|---|
+| REST APIs | Workflow Automation | AI Agents |
+| Distributed Systems | Task Orchestration | LLM Integration |
+| Performance Scaling | Data Processing | Intelligent Systems |
+| Database Architecture | Event-Driven Systems | AI Products |
+| Microservices | Backend Pipelines | ML Applications |
+
+</div>
+
+---
+
+<div align="center">
+
+# Let's Connect
+
+Backend Engineering • Distributed Systems • Automation • AI Infrastructure
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/harsh-sharma-44476339b)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HarshSharma20050924)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:harsh20050924@gmail.com)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+Backend+Opportunities;Building+Scalable+Systems;Automation+%26+AI+Infrastructure" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Let's%20Build%20Something%20Great&fontSize=32&fontAlignY=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff"/>
+
+</div>
