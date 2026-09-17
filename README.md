@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:FF5511,50:FF7A00,100:FFB000&fontColor=ffffff&fontSize=50"/>
 
 ### Software Engineer
 
@@ -8,8 +8,8 @@ Building backend systems, AI-powered applications, and full-stack products.
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/HarshSharma20050924?style=for-the-badge&logo=github&color=7C3AED&labelColor=0d1117)](https://github.com/HarshSharma20050924)
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20050924&style=for-the-badge&color=7C3AED&labelColor=0d1117)](https://github.com/HarshSharma20050924)
+[![GitHub followers](https://img.shields.io/github/followers/HarshSharma20050924?style=for-the-badge&logo=github&color=FF5511&labelColor=0d1117)](https://github.com/HarshSharma20050924)
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20050924&style=for-the-badge&color=FF5511&labelColor=0d1117)](https://github.com/HarshSharma20050924)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/harsh-sharma-44476339b)
 
 </div>
@@ -70,7 +70,7 @@ Autonomous AI-powered lead generation and qualification platform.
 **FastAPI • Redis • OpenAI**
 
 <a href="https://deal-flow-lead.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="assets/live-demo.svg" alt="Live Demo"/>
 </a>
 
 </td>
@@ -84,7 +84,7 @@ Modern ecommerce platform with inventory and order management.
 **Node.js • PostgreSQL**
 
 <a href="https://lumina-store-black.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="assets/live-demo.svg" alt="Live Demo"/>
 </a>
 
 </td>
@@ -100,7 +100,7 @@ Real-time messaging platform with scalable backend.
 **React • Socket.IO**
 
 <a href="https://aqualyn.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="assets/live-demo.svg" alt="Live Demo"/>
 </a>
 
 </td>
@@ -114,7 +114,7 @@ Attendance system using OpenCV.
 **Python • OpenCV**
 
 <a href="https://face-recognition-attendance-system-true.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="assets/live-demo.svg" alt="Live Demo"/>
 </a>
 
 </td>
@@ -126,9 +126,9 @@ Attendance system using OpenCV.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=HarshSharma20050924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&border_radius=10" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=HarshSharma20050924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF5511&icon_color=FF5511&text_color=c9d1d9&border_radius=10" />
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_radius=10" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF5511&text_color=c9d1d9&border_radius=10" />
 
 </div>
 
@@ -138,7 +138,7 @@ Attendance system using OpenCV.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HarshSharma20050924&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=HarshSharma20050924&theme=tokyonight&hide_border=true&background=0D1117&ring=FF5511&fire=FF5511&currStreakLabel=FF5511&border_radius=10" />
 
 </div>
 
@@ -148,7 +148,7 @@ Attendance system using OpenCV.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma20050924&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma20050924&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF5511&line=FF5511&point=ffffff" />
 
 </div>
 
@@ -186,10 +186,10 @@ I'm always interested in discussing software engineering, backend development, A
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+Backend+Opportunities;Building+Scalable+Systems;Automation+%26+AI+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=FF5511&center=true&vCenter=true&width=500&lines=Open+to+Backend+Opportunities;Building+Scalable+Systems;Automation+%26+AI+Infrastructure" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Let's%20Build%20Something%20Great&fontSize=32&fontAlignY=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Let's%20Build%20Something%20Great&fontSize=32&fontAlignY=70&color=0:FF5511,50:FF7A00,100:FFB000&fontColor=ffffff"/>
 
 </div>
