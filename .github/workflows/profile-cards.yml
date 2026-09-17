@@ -1,0 +1,22 @@
+name: Refresh profile cards
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate local SVG cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: HarshSharma20050924
+          cards: overview,momentum,contributions,languages
+          output-dir: assets/profile
+          themes: light,dark
+          commit: true
+          commit-message: "chore: refresh profile cards"

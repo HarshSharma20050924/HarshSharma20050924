@@ -126,29 +126,31 @@ Attendance system using OpenCV.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=HarshSharma20050924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF5511&icon_color=FF5511&text_color=c9d1d9&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+  <img alt="GitHub overview" src="./assets/profile/overview.light.svg" width="100%" />
+</picture>
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HarshSharma20050924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF5511&text_color=c9d1d9&border_radius=10" />
+<br/>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/momentum.dark.svg" />
+  <img alt="Contribution activity" src="./assets/profile/momentum.light.svg" width="100%" />
+</picture>
 
----
+<br/>
 
-# Contribution Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
+  <img alt="Contribution calendar and streaks" src="./assets/profile/contributions.light.svg" width="100%" />
+</picture>
 
-<div align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=HarshSharma20050924&theme=tokyonight&hide_border=true&background=0D1117&ring=FF5511&fire=FF5511&currStreakLabel=FF5511&border_radius=10" />
-
-</div>
-
----
-
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma20050924&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF5511&line=FF5511&point=ffffff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
+  <img alt="Top languages" src="./assets/profile/languages.light.svg" width="100%" />
+</picture>
 
 </div>
 
