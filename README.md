@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Sharma&fontAlign=50&fontAlignY=40&color=0:FF5511,50:FF7A00,100:FFB000&fontColor=ffffff&fontSize=50"/>
 
-### Software Engineer • AI Engineer • System Builder • Product Builder
+### Software Engineer
 
 Building backend systems, AI-powered applications, and full-stack products.
 
@@ -16,11 +16,13 @@ Building backend systems, AI-powered applications, and full-stack products.
 
 ## About Me
 
-I build things that turn ideas into something real combining code, logic, and design to solve problems that matter. I’m always learning, building, and evolving with every system I create.
+I'm a software engineer who enjoys building products from idea to deployment.
 
 Most of my work focuses on backend development, scalable APIs, full-stack web applications, and AI-powered software. I enjoy designing clean architectures, solving engineering problems, and learning technologies that help build reliable systems.
 
 Currently exploring Kubernetes, cloud-native infrastructure, distributed systems, and AI agents.
+
+
 ## Tech Stack
 
 ### Languages
@@ -120,39 +122,36 @@ Attendance system using OpenCV.
 </table>
 ---
 
-`// GitHub Analytics`
-## Metrics & Activity
+## GitHub Analytics
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td colspan="2">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
-          <img alt="GitHub overview" src="./assets/profile/overview.light.svg" width="100%" />
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
-          <img alt="Contribution calendar and streaks" src="./assets/profile/contributions.light.svg" width="100%" />
-        </picture>
-      </td>
-      <td width="50%" valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/momentum.dark.svg" />
-          <img alt="Contribution activity" src="./assets/profile/momentum.light.svg" width="100%" />
-        </picture>
-        <br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
-          <img alt="Top languages" src="./assets/profile/languages.light.svg" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+  <img alt="GitHub overview" src="./assets/profile/overview.light.svg" width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/momentum.dark.svg" />
+  <img alt="Contribution activity" src="./assets/profile/momentum.light.svg" width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
+  <img alt="Contribution calendar and streaks" src="./assets/profile/contributions.light.svg" width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
+  <img alt="Top languages" src="./assets/profile/languages.light.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
