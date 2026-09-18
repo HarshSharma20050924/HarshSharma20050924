@@ -8,6 +8,11 @@ Building backend systems, AI-powered applications, and full-stack products.
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Personal%20Website-FF5511?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://harshsharma.runs-on.dev/)
+[![Systemlabs](https://img.shields.io/badge/Systemlabs-Freelance-FF7A00?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](https://systemlabs.runs-on.dev/)
+
+<br><br>
+
 [![GitHub followers](https://img.shields.io/github/followers/HarshSharma20050924?style=for-the-badge&logo=github&color=FF5511&labelColor=0d1117)](https://github.com/HarshSharma20050924)
 [![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20050924&style=for-the-badge&color=FF5511&labelColor=0d1117)](https://github.com/HarshSharma20050924)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/harsh-sharma-44476339b)
@@ -120,6 +125,7 @@ Attendance system using OpenCV.
 </td>
 </tr>
 </table>
+
 ---
 
 ## GitHub Analytics
